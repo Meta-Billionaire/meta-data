@@ -1,1 +1,16 @@
-//
+[
+  {
+    "logo": "https://raw.githubusercontent.com/Meta-Billionaire/meta-data/main/announcements/staking.png",
+    "title": "NEWS",
+    "subTitle": "STAKING",
+    "date": "1645050000",
+    "link": "https://www.metabillionaire.com/"
+  },
+  {
+    "logo": "https://raw.githubusercontent.com/Meta-Billionaire/meta-data/main/announcements/metaverse.png",
+    "title": "NEWS",
+    "subTitle": "METAVERSE",
+    "date": "1641294000",
+    "link": "https://www.metabillionaire.com/"
+  }
+]
